@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *.pth
 mnist/**
+data/**
+*.part*
+*.merge
